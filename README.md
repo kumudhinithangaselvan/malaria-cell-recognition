@@ -200,7 +200,7 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Classification Report
 
-![image](https://github.com/etjabajasphin/malaria-cell-recognition/assets/121303741/eb6fb1b2-9e7c-4a2b-a941-915ecf890a14)
+![image](https://github.com/kumudhinithangaselvan/malaria-cell-recognition/assets/119394027/17bf6059-0e83-4014-9bf9-6d4e874f1f4d)
 
 
 
