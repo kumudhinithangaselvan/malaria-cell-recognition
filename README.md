@@ -171,21 +171,21 @@ losses[['loss','val_loss']].plot()
 
 model.metrics_names
 
-print("Kumudhini   212222040084")
+print("Kumudhini  212222040084")
 model.evaluate(test_image_gen)
 
 pred_probabilities = model.predict(test_image_gen)
 
 
-print("Kumudhini   212222040084")
+print("Kumudhini  212222040084")
 test_image_gen.classes
 
 predictions = pred_probabilities > 0.5
-print("Kumudhini   212222040084")
+print("Kumudhini  212222040084")
 print(classification_report(test_image_gen.classes,predictions))
 
 
-print("Kumudhini   212222040084")
+print("Kumudhini  212222040084")
 confusion_matrix(test_image_gen.classes,predictions)
 
 ````
